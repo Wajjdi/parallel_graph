@@ -1,0 +1,32 @@
+:host {
+  display: block;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.input-search {
+  color: green;
+}
+.search-zone {
+  border: transparent;
+  background-color: #70bead;
+  padding: 10px;
+  text-align: center;
+}
+
+.tool {
+  border: transparent;
+  background-color: rgb(210, 235, 190);
+  padding: 10px;
+}
+
+.log {
+  color: green;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.current-artist {
+  font-weight: bold;
+  font-size: 15px;
+}
